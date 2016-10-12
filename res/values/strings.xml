@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TextToPc</string>
+    <string name="string1">Digite os dados a enviar</string>
+    <string name="string2">Enviar</string>
+    <string name="string3">IP do servidor</string>
+    <string name="string4">Porta do servidor</string>
+    
+    <string name="ippadrao">Padrão: 192.168.0.186</string>
+    <string name="portapadrao">Padrão: 5004</string>
+    
+    <string name="ip">192.168.0.186</string>
+    <string name="porta">5004</string>
+
+</resources>
